@@ -1,0 +1,1 @@
+mvn clean package // Para Compilar el proyecto y crear el war
